@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/andrew/repos/CPP-labs/Chisl-Metod/equations",
+      "program": "/Users/andrew/repos/CPP-labs/Chisl-Metod/equations/build/Debug/outDebug"
+    }
+  ]
+}
