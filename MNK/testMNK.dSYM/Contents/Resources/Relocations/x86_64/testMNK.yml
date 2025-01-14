@@ -1,0 +1,14 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/andrew/repos/CPP-labs/MNK/testMNK'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003180, symSize: 0xAD0 }
+  - { offset: 0x2FCA, size: 0x8, addend: 0x0, symName: __ZNSt3__16__math3powB8ne180100IdiTnNS_9enable_ifIXaasr13is_arithmeticIT_EE5valuesr13is_arithmeticIT0_EE5valueEiE4typeELi0EEENS_9__promoteIS3_S4_vE4typeES3_S4_, symObjAddr: 0xAD0, symBinAddr: 0x100003C50, symSize: 0x30 }
+  - { offset: 0x3027, size: 0x8, addend: 0x0, symName: __ZNSt3__16__math3powB8ne180100IiEEddd, symObjAddr: 0xB70, symBinAddr: 0x100003CF0, symSize: 0x30 }
+  - { offset: 0x3D2D, size: 0x8, addend: 0x0, symName: __ZNSt3__14endlB8ne180100IcNS_11char_traitsIcEEEERNS_13basic_ostreamIT_T0_EES7_, symObjAddr: 0xB20, symBinAddr: 0x100003CA0, symSize: 0x50 }
+  - { offset: 0x3D6D, size: 0x8, addend: 0x0, symName: __ZNSt3__19use_facetB8ne180100INS_5ctypeIcEEEERKT_RKNS_6localeE, symObjAddr: 0xC20, symBinAddr: 0x100003DA0, symSize: 0x30 }
+  - { offset: 0x50B0, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003180, symSize: 0xAD0 }
+  - { offset: 0x5459, size: 0x8, addend: 0x0, symName: __ZNSt3__113basic_ostreamIcNS_11char_traitsIcEEElsB8ne180100EPFRS3_S4_E, symObjAddr: 0xB00, symBinAddr: 0x100003C80, symSize: 0x20 }
+  - { offset: 0x548B, size: 0x8, addend: 0x0, symName: __ZNKSt3__19basic_iosIcNS_11char_traitsIcEEE5widenB8ne180100Ec, symObjAddr: 0xBA0, symBinAddr: 0x100003D20, symSize: 0x80 }
+  - { offset: 0x5500, size: 0x8, addend: 0x0, symName: __ZNKSt3__15ctypeIcE5widenB8ne180100Ec, symObjAddr: 0xC50, symBinAddr: 0x100003DD0, symSize: 0x2B }
+...
